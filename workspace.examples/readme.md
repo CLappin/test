@@ -13,7 +13,7 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
     6. Select the "Run" button to execute the script
     7. Once complete, a script report will be generated.
  
- Libero SoC will present a SmartDesign with a sample Mi-V design.
+ Libero SoC will present a SmartDesign with a sample Mi-V design. Libero executes the script and opens the Mi-V sample design. 
 
 #### Running Libero SoC in GUI mode, with Script Arguements
     1. Open Libero SoC
