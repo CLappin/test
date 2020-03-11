@@ -8,14 +8,13 @@ Select the desired programming .job file and program your device using the stand
 which can be found [here](https://www.microsemi.com/product-directory/programming/4977-flashpro#software).
 
 ## Programming the Device using FPExpress
-1. Download or Clone this repository to get the contents of FlashPro_Express_Projects.
-2. Power-up your board and connect it to your programming device running FlashPro Express.
-3. Launch FPExpress.
-4. Select Project from the top left bar and select "New Job Project from FlashPro Express Job"
-5. To select the "Programming job file:" navigate to your FlashPro_Express_Project/Programming_Files directory 
+1. Power-up your board and connect it to your programming device running FlashPro Express.
+2. Launch FPExpress.
+3. Select Project from the top left bar and select "New Job Project from FlashPro Express Job"
+4. To select the "Programming job file:" navigate to your FlashPro_Express_Project/Programming_Files directory 
    and select the (.job) programming file.
-6. For "FlashPro Express job project location:" select the FlashPro_Express_Projects.
-8. Select OK
+5. For "FlashPro Express job project location:" select the FlashPro_Express_Projects.
+6. Select OK
 7. From the bottom left drop-down menu select the PROGRAM option if it's not selected by default and click RUN.
    Wait for device to be programmed.
 
