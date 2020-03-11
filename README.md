@@ -16,7 +16,7 @@ The Libero designs include the following features:
 * User peripherals (GPIO, Timers, UART).
 
 # FlashPro Express
-The FlashPro_Express_Projects folder contains pre-generated FPGA programming files.
+The FlashPro_Express_Projects folder contains pre-generated FPGA programming bitstreams.
 These can be downloaded directly to the target board using FlashPro Express.
 
 # Design Tools
