@@ -13,7 +13,7 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
     6. Select the "Run" button to execute the script
     7. Once complete, a script report will be generated.
  
- Libero executes the script and opens the Mi-V sample design. The script has added Timing constraints to the design for Synthesis, Place and Route, and Timing Verification. Additionally, IO Constraints have been added to the design for Place and Route. The design can now be taken through the remainder of the Libero SoC design flow.
+Libero executes the script and opens the Mi-V sample project. The script has added Timing constraints to the design for Synthesis, Place and Route, and Timing Verification. Additionally, IO Constraints have been added to the design for Place and Route. The design can now be taken through the remainder of the Libero SoC design flow.
 
 #### Running Libero SoC in GUI mode, with Script Arguements
     1. Open Libero SoC
