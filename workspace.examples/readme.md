@@ -4,7 +4,7 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
 ## <a name="quick"></a> Instructions
 
   
-#### Running in GUI mode
+#### Running Libero SoC in GUI mode
     1. Open Libero SoC
     2. Execute the script, Project -> Execute Script
     3. Select the directory that the script is located in using the "..."
