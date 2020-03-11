@@ -26,7 +26,7 @@ The following design tools are required.
 Libero SoC is Microsemi's FPGA design software.
 It is available from [here](https://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#downloads).
 
-## FlashPro Express (FPExpress)
+## FlashPro Express
 FlashPro Express is Microsemi's Programming and debug tool. It is included in the Libero SoC software and is also
 available as a standalone application found [here](http://www.microsemi.com/products/fpga-soc/design-resources/programming/flashpro#software). Please note, that if Libero SoC is already on your system, you do not need
 the standalone version.
