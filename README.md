@@ -4,7 +4,8 @@ This repository contains Libero projects for the MIV_RV32IMA_L1_AHB and MIV_RV32
 FlashPro Express projects containting pre-generated programming bitstreams are also available for each of the designs.
 
 $ To download or clone the repository
-$ git clone blah blah
+
+$ git clone https://github.com/CLappin/RTG4-Development-Kit/tree/develop/
 
 $ Running from the zipped sources
 1. Download the zipped sources via the "Clone or download" button using "Download Zip" button
