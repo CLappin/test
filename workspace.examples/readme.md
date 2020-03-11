@@ -5,15 +5,8 @@ generate the sample desings.
 
 ## <a name="quick"></a> Quick Instructions
 
-### Checkout The Code
-#### Running from the zipped sources
-    1. Download the zipped sources via the "Clone or download" button using "Download Zip" button
-    2. Unzip the sources
-    3. Proceed to step 1 in Running in GUI mode
   
-#### Running in GUI mode (Ubuntu 18.04 and Windows 10)
-    $ git clone https://github.com/CLappin/RTG4-Development-Kit/tree/develop/
-
+#### Running in GUI mode
     1. Open Libero SoC
     2. Execute the script, Project -> Execute Script
     3. Select the directory that the script is located in using the "..."
@@ -22,11 +15,7 @@ generate the sample desings.
     6. Select the "Run" icon
     7. Once complete, a script report will generated.
 
-#### Running in batch mode (Ubuntu 18.04)
-    $ git clone https://github.com/CLappin/RTG4-Development-Kit/tree/develop/
-    $ cd RTG4-Development-Kit
-    $ # Output will be seen on the terminal window
-    $ libero "SCRIPT_ARGS:<RTG4_DEV_KIT.tcl AHB>"
+
 ## <a name="Script arguments"></a> Script Arguments
 
 The valid first arguements are: 
