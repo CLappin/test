@@ -3,6 +3,14 @@
 This repository contains Libero projects for the MIV_RV32IMA_L1_AHB and MIV_RV32IMA_L1_AXI soft core RISC-V processors.
 FlashPro Express projects containting pre-generated programming bitstreams are also available for each of the designs.
 
+$ # To download or clone the repository
+$ git clone blah blah
+
+$ Running from the zipped sources
+1. Download the zipped sources via the "Clone or download" button using "Download Zip" button
+2. Unzip the sources
+3. Proceed to step 1 in Running in GUI mode.
+
 
 # Libero Projects
 The Libero_Projects folder contains sample Mi-V Libero designs.
