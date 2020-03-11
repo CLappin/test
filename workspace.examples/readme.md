@@ -9,7 +9,7 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
     2. Execute the script, Project -> Execute Script
     3. Select the directory that the script is located in using the "..."
     4. Select the script and select "Open"
-    5. In the arguments text box "AHB"
+    5. In the arguments text box, enter "AHB"
     6. Select the "Run" icon
     7. Once complete, a script report will be generated.
 
