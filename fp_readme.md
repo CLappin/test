@@ -4,18 +4,18 @@ This folder contains FlashPro Express **(v12.3)** projects for the RTG4 Developm
 
 ## FlashPro Express
 The programming files contained under this folder were exported from the designs in the Libero_Projects folder in this repository. Select the desired programming .job file and program your device using FlashPro Express.
-
 ## Programming the Device using FlashPro Express
-    1. Power-up your board and connect it to your computer
-    2. Launch FPExpress.
-    3. Select Project from the top left bar and select "New Job Project from FlashPro Express Job"
-    4. To select the "Programming job file:" navigate to FlashPro_Express_Project/Programming_Files directory 
-       and select the (.job) programming file.
-    5. For "FlashPro Express job project location:" select the FlashPro_Express_Projects.
-    6. Select OK
-    7. From the bottom left drop-down menu select the PROGRAM option if it's not selected by default and click RUN.
-       Wait for device to be programmed.
-   
+    1. Open FlashPro Express
+    2. Select Project -> New Job Project from FlashPro Express Job   
+    3. Browse to the Job file using, "Browse ...". The Job files are located in
+       the FlashPro_Express_Project/Programming_Files directory
+    4. Select the Job file, then select "Open"
+    5. Select the FlashPro_Express_Project/Programming_Files  as the project location
+    6. Connect the FPGA board to the computer using the FlashPro5 or Embedded FlashPro
+    7. Turn on the board and select "Refreash/Rescan Programmers"
+    8. Select the "RUN" button, status bar will change from IDLE to the percentage complete 
+    9. Once complete the status bar will display "1 PROGRAMMER(S) PASSED"
+    
 ## Design Features
 The Libero designs include the following features:
 * A MIV_RV32IMA_L1_AHB or MIV_RV32IMA_L1_AXI soft RISC-V processor.
