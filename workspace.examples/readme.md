@@ -1,6 +1,7 @@
 # RTG4 Development Kit Mi-V Sample Designs for Libero v12.3
 
-Sample Mi-V Libero Projects for the RTG4 Radiation-Tolerant Development Kit.
+Sample Mi-V Libero Projects for the RTG4 Development Kit. The file consist of Tcl scripts that are executed in Libero SoC to
+generate the sample desings.
 
 ## <a name="quick"></a> Quick Instructions
 
