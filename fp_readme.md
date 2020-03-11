@@ -1,4 +1,4 @@
-# RTG4 Development Kit Mi-V Designs FlashPro Express Programming Files (Libero v12.3)
+# Programming Files for RTG4 Development Board Design
 
 FlashPro Express projects for sample Mi-V designs on the RTG4 Development Kit.
 
