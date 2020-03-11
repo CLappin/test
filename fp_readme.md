@@ -3,10 +3,7 @@
 FlashPro Express **(v12.3)** projects for sample Mi-V designs on the RTG4 Development Kit.
 
 ## FlashPro Express
-The programming files contained under this folder were exported from the designs in the Libero_Projects folder in this repository.
-
-Select the desired programming .job file and program your device using the standalone installer for FlashPro Express
-which can be found [here](https://www.microsemi.com/product-directory/programming/4977-flashpro#software).
+The programming files contained under this folder were exported from the designs in the Libero_Projects folder in this repository. Select the desired programming .job file and program your device using FlashPro Express.
 
 ## Programming the Device using FPExpress
 1. Power-up your board and connect it to your computer
