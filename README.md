@@ -1,12 +1,9 @@
 # RTG4 Development Kit Mi-V Sample Designs
 
-Sample Mi-V Libero SoC projects for the RTG4 Development Kit.
 
-This repository contains Tcl scripts that build sample Libero SoC designs
-for the MiV_RV32IMA_L1_AHB and MiV_RV32IMA_L1_AXI soft core RISC-V processors.
-Tcl arguments can be passed to the script to select which sample design is built.
+This repository contains Libero projects for the MiV_RV32IMA_L1_AHB and MiV_RV32IMA_L1_AXI soft core RISC-V processors.
 
-Pre-generated FlahPro Express projects are also available for each of the designs.
+Pre-generated programming bitstream are also available for each of the designs.
 
 # Libero Projects
 The Libero_Projects folder contains the Tcl scripts that build the sample Mi-V projects.
