@@ -10,7 +10,6 @@ To download or clone the repository
     $ Running from the zipped sources
     1. Download the zipped sources via the "Clone or download" button using "Download Zip" button
     2. Unzip the sources
-    3. Proceed to step 1 in Running in GUI mode.
 
 
 # Libero Projects
