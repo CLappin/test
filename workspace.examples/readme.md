@@ -42,7 +42,7 @@ Second argument:
 | ------------- |:-------------:|
 | SYNTHESIS | Run synthesis on the design  |
 | PLACE_AND_ROUTE | Run place and route on the design  |
-| GENERATE_BITSTREAM | Generate the bitstream of the design|
+| GENERATE_BITSTREAM | Generate the bitstream for the design|
 | EXPORT_PROGRAMMING_FILE | Export the programming file |
 
 ## Peripherals Addresses
