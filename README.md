@@ -17,7 +17,7 @@ The Libero_Projects folder contains sample Mi-V Libero designs.
 
 ## Design Features
 The Libero designs include the following features:
-* A MIV_RV32IMA_L1_AHB or MIV_RV32IMA_L1_AXI soft RISC-V processor
+* A MIV_RV32IMA_L1_AHB or MIV_RV32IMA_L1_AXI soft RISC-V [processor](https://github.com/RISCV-on-Microsemi-FPGA/CPUs).
 * RISC-V debug block allowing on-target debug using SoftConsole
 * The operating frequency of the design is 50MHz
 * Target memory is LSRAM
