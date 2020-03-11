@@ -45,7 +45,14 @@ Second argument:
 | GENERATE_BITSTREAM | Generate the bitstream for the design|
 | EXPORT_PROGRAMMING_FILE | Export the programming file |
 
-## Design Information
+## Design Features
+The Libero designs include the following features:
+* A MIV_RV32IMA_L1_AHB or MIV_RV32IMA_L1_AXI soft RISC-V processor.
+* RISC-V debug block allowing on-target debug using SoftConsole.
+* The operating frequency of the design is 50MHz.
+* Target memory is LSRAM.
+* User peripherals (GPIO, Timers, UART).
+
 The peripherals in this design are located at the following addresses.
 
 | Peripheral    | Address   |
