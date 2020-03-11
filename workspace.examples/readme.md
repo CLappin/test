@@ -45,7 +45,7 @@ Second argument:
 | GENERATE_BITSTREAM | Generate the bitstream for the design|
 | EXPORT_PROGRAMMING_FILE | Export the programming file |
 
-## Peripherals Addresses
+## Design Information
 The peripherals in this design are located at the following addresses.
 
 | Peripheral    | Address   |
@@ -55,8 +55,4 @@ The peripherals in this design are located at the following addresses.
 | CoreTimer_0   | 0x7000_3000   |
 | CoreTimer_1   | 0x7000_4000   |
 | CoreGPIO_OUT  | 0x7000_5000   |
-
-## Memory Address
-| Type | Address|
-| ------------- |:-------------:|
 | LSRAM| 0x8000_0000|
