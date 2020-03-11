@@ -29,7 +29,7 @@ In this example, the arguments "AHB SYNTHESIS" are entered to take the project t
 Libero executes the script and opens the Mi-V sample project. The script adds Timing constraints to the project for Synthesis, Place and Route, and Timing Verification. Additionally, IO Constraints are added to the project for Place and Route. The project can now be taken through the remainder of the Libero SoC design flow.
     
 ## <a name="Script arguments"></a> Script Arguments
-In the examples above the arguments "AHB" and "AHB SYNTHESIS" were entered. The complete set of arguments are documented here.
+In the examples above the arguments "AHB" and "AHB SYNTHESIS" were entered. The complete set of script arguments are documented here.
 
 First argument: 
 | Argument    |  Description   |
