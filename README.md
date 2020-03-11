@@ -5,7 +5,7 @@ FlashPro Express projects containting pre-generated programming bitstreams are a
 
 
 # Libero Projects
-The Libero_Projects folder contains the Tcl scripts that build the sample Mi-V projects.
+The Libero_Projects folder contains sample Mi-V designs for the Microsemi FPGA.
 
 ## Design Features
 The Libero designs include the following features:
