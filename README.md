@@ -23,6 +23,10 @@ The Libero designs include the following features:
 * Target memory is LSRAM
 * User peripherals (GPIO, Timers, UART)
 
+## Target Hardware
+Details on the RTG4 Development kit and it's features can be found:
+* RTG4-DEV-KIT [here](https://www.microsemi.com/product-directory/dev-kits-solutions/3865-rtg4-kits)
+
 # FlashPro Express
 The FlashPro_Express_Projects folder contains the pre-generated FPGA bitstream files. These bitstreams
 can be downloaded directly to the target board using FlashPro Express.
