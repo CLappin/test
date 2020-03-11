@@ -24,7 +24,7 @@ The Libero designs include the following features:
 * User peripherals (GPIO, Timers, UART)
 
 ## Target Hardware
-Details on the RTG4 Development kit and it's features can be found:
+Details of the RTG4 Development kit and it's features can be found:
 * RTG4-DEV-KIT [here](https://www.microsemi.com/product-directory/dev-kits-solutions/3865-rtg4-kits)
 
 # FlashPro Express
