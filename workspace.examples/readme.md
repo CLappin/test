@@ -15,10 +15,10 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
  
 Libero executes the script and opens the Mi-V sample project. The script adds Timing constraints to the project for Synthesis, Place and Route, and Timing Verification. Additionally, IO Constraints are added to the project for Place and Route. The project can now be taken through the remainder of the Libero SoC design flow.
 
-#### Running Libero SoC in GUI mode, with Script Arguements
+#### Running Libero SoC in GUI mode, with Script Arguments
     1. Open Libero SoC
     2. Execute the script, Project -> Execute Script
-    3. Select the directory that the script is located in using the "..."
+    3. Select the directory that the script is located in, using the "..."
     4. Select the script and select "Open"
     5. In the arguments text box, enter "AHB SYNTHESIS"
     6. Select the "Run" button to execute the script
