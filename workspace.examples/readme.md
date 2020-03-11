@@ -12,8 +12,17 @@ This folder contains Tcl scripts that build Libero SoC (**v12.3**) design projec
     5. In the arguments text box, enter "AHB"
     6. Select the "Run" button to execute the script
     7. Once complete, a script report will be generated.
+    8. Close the script report and a sample design is generated.
 
-
+#### Running Libero SoC in GUI mode, with Script Arguements
+    1. Open Libero SoC
+    2. Execute the script, Project -> Execute Script
+    3. Select the directory that the script is located in using the "..."
+    4. Select the script and select "Open"
+    5. In the arguments text box, enter "AHB SYNTHESIS"
+    6. Select the "Run" button to execute the script
+    7. Once complete, a script report will be generated.
+    
 ## <a name="Script arguments"></a> Script Arguments
 
 The valid first arguements are: 
