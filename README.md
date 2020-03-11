@@ -23,7 +23,7 @@ can be downloaded directly to the target board using FlashPro Express.
 The following design tools are required.
 
 ## Libero SoC v12.3
-Libero SoC is Microsemi's FPGA design suite that is used to generate the sample projects.
+Libero SoC is Microsemi's FPGA design software.
 It is available from [here](https://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#downloads).
 
 ## FlashPro Express (FPExpress)
