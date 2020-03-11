@@ -3,7 +3,8 @@
 FlashPro Express **(v12.3)** projects for sample Mi-V designs on the RTG4 Development Kit.
 
 ## FlashPro Express
-The programming files contained here are exported from Libero projects and their configurations found in this repository.
+The programming files contained under this folder were exported from Libero_Projects.
+
 Select the desired programming .job file and program your device using the standalone installer for FlashPro Express
 which can be found [here](https://www.microsemi.com/product-directory/programming/4977-flashpro#software).
 
