@@ -5,7 +5,7 @@ this folder contains FlashPro Express **(v12.3)** projects for sample Mi-V desig
 ## FlashPro Express
 The programming files contained under this folder were exported from the designs in the Libero_Projects folder in this repository. Select the desired programming .job file and program your device using FlashPro Express.
 
-## Programming the Device using FPExpress
+## Programming the Device using FlashPro Express
 1. Power-up your board and connect it to your computer
 2. Launch FPExpress.
 3. Select Project from the top left bar and select "New Job Project from FlashPro Express Job"
@@ -15,3 +15,4 @@ The programming files contained under this folder were exported from the designs
 6. Select OK
 7. From the bottom left drop-down menu select the PROGRAM option if it's not selected by default and click RUN.
    Wait for device to be programmed.
+## Design Features
